@@ -11,7 +11,8 @@ GF-1 Cloud and Cloud Shadow Cover Validation Data: [link](URL "http://sendimage.
 
 Landsat-8 Cloud Cover Assessment Validation Data: [link](URL "https://landsat.usgs.gov/landsat-8-cloud-cover-assessment-validation-data")
 
-Weakly Supervised Cloud Detection Data: [link](URL "https://github.com/weichenrs/WDCD")
+Sentinel-2 Cloud Mask Catalogue Data: [link](URL "https://zenodo.org/records/4172871")
+
 
 ## Training Phase
 Please run ./scripts/main_train_CLDiff_GF1.py for model training.
