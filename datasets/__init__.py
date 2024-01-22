@@ -1,5 +1,0 @@
-from .gf1_dataset import GF1_cls_WEAKMFC, GF1_cls_WEAK, GF1_cls_FULL, GF1_cls_WEAK_condFEATS
-
-from .l8_dataset import L8_Biome_cls_WEAK,L8_Biome_cls_FULL,L8_Biome_cls_WEAK_condFEATS,L8_Biome_cls_FULL_condFEATS,L8_Biome_cls_WEAKFMASK
-from .s2_dataset import sentinel_cls_WEAK,sentinel_cls_FULL,sentinel_cls_WEAK_condFEATS,sentinel_cls_FULL_condFEATS
-
