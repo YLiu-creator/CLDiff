@@ -8,7 +8,8 @@ Cloud detection plays a crucial role in remote sensing applications. To alleviat
 Here is a short implementation since the paper is under review. Further comprehensive details will be made available upon formal acceptance of the research paper.
 
 ## A Quick Overview 
-![overview](https://github.com/YLiu-creator/CLDiff/assets/37520589/5ec123d4-1c6e-4472-b882-215214fb350b)
+![Uploading MFR.png…]()
+
 
 
 
